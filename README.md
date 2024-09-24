@@ -17,7 +17,7 @@ git clone https://github.com/Minoru938/KRFD.git
 
 3. `cd` into `KRFD` directory.
 
-4. Run `jupyter notebook` and open `tutorial_KRFD.ipynb` to demonstrate in `KRFD_model` class in the KRFD.py module.
+4. Run `jupyter notebook` and open `tutorial_KRFD.ipynb` to demonstrate the `KRFD_model` class in the KRFD.py module.
 
 5. For the `KRSFD_model` class tutorial, please run `tutorial_KRSFD.ipynb`. 
 
